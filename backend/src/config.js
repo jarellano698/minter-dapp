@@ -14,7 +14,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 50,
+    growEditionSizeTo: 90,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Body" },
@@ -26,6 +26,20 @@ const layerConfigurations = [
       { name: "Hair" },
       { name: "Head Accessories" },
       { name: "Ear Accessories" },
+    ],
+  },
+  {
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "Body" },
+      { name: "Eye Color" },
+      { name: "Face Tattoo" },
+      { name: "Shirts" },
+      { name: "Bonus Accessories" },
+      { name: "Facial Hair" },
+      { name: "Ear Accessories" },
+      { name: "Hats" },
     ],
   },
 ];
@@ -62,7 +76,7 @@ const MINT_PRICE = 0.0001; // Minting price per NFT. Rinkeby = ETH, Polygon = MA
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-03-25T22:30:48-05:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-03-26T22:30:48-05:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
 const PRESALE_MINT_START_DATE = null; // Optional. Eg: 2022-02-08T11:30:48+00:00
@@ -70,7 +84,7 @@ const ROYALTY_SHARE = 250; // Percentage of the token price that goes to the roy
 const ROYALTY_ADDRESS = "0x6e5E483C9aBDC3E0D8aa94d707bD2FDa7aD13920"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0x6e5E483C9aBDC3E0D8aa94d707bD2FDa7aD13920"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
@@ -96,12 +110,12 @@ try {
 // END NFTPort Info
 
 const solanaMetadata = {
-  symbol: "YC",
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+  symbol: "CC",
+  seller_fee_basis_points: 250, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "SOLANA Adress here",
       share: 100,
     },
   ],
