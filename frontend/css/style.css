@@ -5,16 +5,16 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Arvo", serif;
+  --font-primary: "Roboto", bold;
+  --font-secondary: "Roboto", monospace;
   --font-code: "Roboto", monospace;
   --bg-color: #00163f;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
-  --btn-bg-color: #000000;
+  --btn-bg-color: #00000000;
   --accent-color: #ff0404;
-  --header-shadow: var(--accent-color) 0px 0px 5px;
-  --card-shadow: var(--accent-color) 0px 0px 20px;
+  --header-shadow: var(--accent-color) 0px 0px 0px;
+  --card-shadow: var(--accent-color) 0px 0px 0px;
 }
 
 * {
