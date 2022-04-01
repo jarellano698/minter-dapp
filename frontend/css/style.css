@@ -194,7 +194,7 @@ section {
   width: 100%;
   text-align: center;
   line-height: 1;
-  border-radius: 4px 4px 0 0;
+  border-radius: 8px 8px 0 0;
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
@@ -210,7 +210,7 @@ section {
 }
 
 .countdown h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 0px 0px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
@@ -223,7 +223,7 @@ section {
 
 .countdown > p {
   font-size: 1.1rem;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   margin-bottom: 2rem;
   text-align: center;
 }
