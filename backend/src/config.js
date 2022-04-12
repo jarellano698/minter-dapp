@@ -68,7 +68,7 @@ const CHAIN = 'polygon'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Chunky Chicanos';
 const CONTRACT_SYMBOL = 'CC';
-const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x6e5E483C9aBDC3E0D8aa94d707bD2FDa7aD13920';
 const TREASURY_ADDRESS = '0x6e5E483C9aBDC3E0D8aa94d707bD2FDa7aD13920';
 const MAX_SUPPLY = 10001; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
