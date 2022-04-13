@@ -1,0 +1,364 @@
+
+> minter-dapp-backend@0.0.2 rarity
+> node utils/rarity
+
+Trait type: Backgrounds
+{
+  trait: 'Abstract Aztec Design',
+  chance: '5',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'Abstract Our Lady',
+  chance: '1',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'Arizona', chance: '100', occurrence: '9% out of 100%' }
+{ trait: 'Blue Graffiti', chance: '20', occurrence: '2% out of 100%' }
+{
+  trait: 'Blue Green Backdrop',
+  chance: '130',
+  occurrence: '12% out of 100%'
+}
+{ trait: 'Brick Wall', chance: '30', occurrence: '3% out of 100%' }
+{ trait: 'Desert', chance: '90', occurrence: '9% out of 100%' }
+{ trait: 'El Pino', chance: '60', occurrence: '5% out of 100%' }
+{ trait: 'Las Vegas', chance: '110', occurrence: '16% out of 100%' }
+{ trait: 'Las Vegas', chance: '60', occurrence: '16% out of 100%' }
+{ trait: 'Los Angeles', chance: '70', occurrence: '7% out of 100%' }
+{ trait: 'Mexican flag', chance: '20', occurrence: '2% out of 100%' }
+{
+  trait: 'Prison On Lockdown',
+  chance: '40',
+  occurrence: '4% out of 100%'
+}
+{ trait: 'Prison', chance: '80', occurrence: '7% out of 100%' }
+{
+  trait: 'Red Background',
+  chance: '140',
+  occurrence: '13% out of 100%'
+}
+{ trait: 'Red Graffiti', chance: '120', occurrence: '11% out of 100%' }
+
+Trait type: Body
+{ trait: 'Burnt Tan', chance: '120', occurrence: '16% out of 100%' }
+{ trait: 'Dark Skin One', chance: '60', occurrence: '8% out of 100%' }
+{
+  trait: 'Dark Skin Three',
+  chance: '40',
+  occurrence: '5% out of 100%'
+}
+{ trait: 'Dark Skin Two', chance: '90', occurrence: '11% out of 100%' }
+{ trait: 'Geenie Blue', chance: '2', occurrence: '0% out of 100%' }
+{ trait: 'Jade Green', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'Light Skin One', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'Light Skin Two', chance: '11', occurrence: '2% out of 100%' }
+{
+  trait: 'Tan Skin Three',
+  chance: '130',
+  occurrence: '17% out of 100%'
+}
+{ trait: 'Tan Skin Two', chance: '140', occurrence: '19% out of 100%' }
+{ trait: 'Tan Skin', chance: '150', occurrence: '20% out of 100%' }
+{ trait: 'Vitiligo Rare', chance: '1', occurrence: '0% out of 100%' }
+
+Trait type: Eye Color
+{ trait: 'Black', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'Brown', chance: '350', occurrence: '39% out of 100%' }
+{ trait: 'Dark Brown', chance: '310', occurrence: '34% out of 100%' }
+{ trait: 'Green', chance: '40', occurrence: '4% out of 100%' }
+{ trait: 'Hazel', chance: '90', occurrence: '10% out of 100%' }
+{ trait: 'Heterochromia', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'Light Blue', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'Light Brown', chance: '100', occurrence: '11% out of 100%' }
+{ trait: 'Rare Red', chance: '1', occurrence: '0% out of 100%' }
+
+Trait type: Face Tattoo
+{
+  trait: 'Dia de Muertos Face Paint',
+  chance: '1',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'None', chance: '173', occurrence: '67% out of 100%' }
+{ trait: 'Tear Drop', chance: '26', occurrence: '9% out of 100%' }
+{ trait: 'Tres Puntos', chance: '27', occurrence: '11% out of 100%' }
+{ trait: 'Triangle Tattoo', chance: '5', occurrence: '2% out of 100%' }
+{
+  trait: 'Unfilled Tear Drop',
+  chance: '28',
+  occurrence: '11% out of 100%'
+}
+
+Trait type: Shirts
+{
+  trait: 'Aqua Marine Jersey',
+  chance: '80',
+  occurrence: '6% out of 100%'
+}
+{
+  trait: 'Baby Blue Jersey',
+  chance: '80',
+  occurrence: '6% out of 100%'
+}
+{
+  trait: 'Black Dress Shirt with Suspenders',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'Black Dress Shirt',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'Black Jersey', chance: '13', occurrence: '1% out of 100%' }
+{ trait: 'Blue Flannel', chance: '80', occurrence: '6% out of 100%' }
+{ trait: 'Brown Flannel', chance: '50', occurrence: '4% out of 100%' }
+{
+  trait: 'Bullet Proof with Dress Shirt',
+  chance: '3',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'Bullet Proof with Tattoo',
+  chance: '1',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'Bullet Proof', chance: '5', occurrence: '0% out of 100%' }
+{
+  trait: 'Cheech Suspenders',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'Dark Green Flannel',
+  chance: '80',
+  occurrence: '6% out of 100%'
+}
+{ trait: 'Gray CC Shirt', chance: '111', occurrence: '8% out of 100%' }
+{ trait: 'Gray Flannel', chance: '80', occurrence: '6% out of 100%' }
+{
+  trait: 'Green CC Shirt',
+  chance: '100',
+  occurrence: '7% out of 100%'
+}
+{ trait: 'Mayan Letter', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'None', chance: '71', occurrence: '5% out of 100%' }
+{ trait: 'Pink CC Shirt', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'Plain Shirt', chance: '100', occurrence: '7% out of 100%' }
+{ trait: 'Prison Blue', chance: '15', occurrence: '1% out of 100%' }
+{ trait: 'Prison Orange', chance: '8', occurrence: '1% out of 100%' }
+{ trait: 'Purple Flannel', chance: '80', occurrence: '6% out of 100%' }
+{
+  trait: 'Red and Gold Jersey',
+  chance: '80',
+  occurrence: '6% out of 100%'
+}
+{ trait: 'Red Flannel', chance: '14', occurrence: '1% out of 100%' }
+{
+  trait: 'Spruce CC Shirt',
+  chance: '100',
+  occurrence: '7% out of 100%'
+}
+{ trait: 'Tattoos', chance: '2', occurrence: '0% out of 100%' }
+{ trait: 'Teal Flannel', chance: '80', occurrence: '6% out of 100%' }
+{
+  trait: 'White Dress Shirt with Suspenders',
+  chance: '4',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'White Dress Shirt',
+  chance: '5',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'White Jersey', chance: '12', occurrence: '1% out of 100%' }
+{
+  trait: 'Yellow and Purple Jersey',
+  chance: '80',
+  occurrence: '6% out of 100%'
+}
+
+Trait type: Bonus Accessories
+{
+  trait: 'Carrillera Bullet Holder',
+  chance: '20',
+  occurrence: '5% out of 100%'
+}
+{ trait: 'Centenario', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'Gold Chain', chance: '40', occurrence: '10% out of 100%' }
+{ trait: 'Gold Cuban', chance: '30', occurrence: '7% out of 100%' }
+{ trait: 'None', chance: '200', occurrence: '50% out of 100%' }
+{ trait: 'Silver Chain', chance: '50', occurrence: '12% out of 100%' }
+{ trait: 'Silver Cuban', chance: '60', occurrence: '16% out of 100%' }
+
+Trait type: Facial Hair
+{
+  trait: 'Beard with Ponytail',
+  chance: '14',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'Brown Beard with Ponytail',
+  chance: '16',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'Brown Bushy Mustache',
+  chance: '11',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'Brown Full Beard',
+  chance: '11',
+  occurrence: '2% out of 100%'
+}
+{ trait: 'Brown Goatee', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'Bushy Mustache', chance: '16', occurrence: '3% out of 100%' }
+{ trait: 'Full Beard', chance: '25', occurrence: '5% out of 100%' }
+{
+  trait: 'Generic Mustache',
+  chance: '103',
+  occurrence: '20% out of 100%'
+}
+{ trait: 'Goatee', chance: '11', occurrence: '2% out of 100%' }
+{
+  trait: 'Long Bushy Mustache',
+  chance: '52',
+  occurrence: '10% out of 100%'
+}
+{ trait: 'Mutton Chops', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'None', chance: '109', occurrence: '21% out of 100%' }
+{
+  trait: 'Pencil Mustache',
+  chance: '12',
+  occurrence: '2% out of 100%'
+}
+{ trait: 'Shaven Goatee', chance: '29', occurrence: '6% out of 100%' }
+{
+  trait: 'Small Mustache',
+  chance: '68',
+  occurrence: '13% out of 100%'
+}
+{ trait: 'Soul Patch', chance: '17', occurrence: '3% out of 100%' }
+{ trait: 'Van Dyke', chance: '13', occurrence: '2% out of 100%' }
+
+Trait type: Hair
+{ trait: 'Bald', chance: '108', occurrence: '29% out of 100%' }
+{ trait: 'Balding', chance: '4', occurrence: '1% out of 100%' }
+{ trait: 'Blue Mohawk', chance: '5', occurrence: '2% out of 100%' }
+{ trait: 'Brown Mohawk', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'Clean Cut', chance: '14', occurrence: '4% out of 100%' }
+{ trait: 'Fringe', chance: '23', occurrence: '6% out of 100%' }
+{
+  trait: 'Hard Part Slick Back',
+  chance: '10',
+  occurrence: '2% out of 100%'
+}
+{ trait: 'Mohawk', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'Orange Mohawk', chance: '3', occurrence: '1% out of 100%' }
+{ trait: 'Rocker Hair', chance: '2', occurrence: '0% out of 100%' }
+{ trait: 'Shaved Hair', chance: '56', occurrence: '15% out of 100%' }
+{
+  trait: 'Short Curly Hair',
+  chance: '17',
+  occurrence: '5% out of 100%'
+}
+{ trait: 'Short Hair', chance: '18', occurrence: '5% out of 100%' }
+{
+  trait: 'Slick Back Hair',
+  chance: '29',
+  occurrence: '8% out of 100%'
+}
+{ trait: 'Takuache cut', chance: '1', occurrence: '0% out of 100%' }
+
+Trait type: Head Accessories
+{ trait: 'Black bandana', chance: '17', occurrence: '5% out of 100%' }
+{ trait: 'Brown Bandana', chance: '16', occurrence: '5% out of 100%' }
+{ trait: 'Chavez Headband', chance: '4', occurrence: '1% out of 100%' }
+{ trait: 'Dark Sunglasses', chance: '5', occurrence: '1% out of 100%' }
+{
+  trait: 'Front knot Bandana White',
+  chance: '1',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'none', chance: '150', occurrence: '40% out of 100%' }
+{
+  trait: 'Orange Blue Bandana',
+  chance: '13',
+  occurrence: '3% out of 100%'
+}
+{ trait: 'Red Bandana', chance: '33', occurrence: '9% out of 100%' }
+{
+  trait: 'Tupac Bandana Brown',
+  chance: '10',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'Tupac Bandana Turquois',
+  chance: '5',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'White Bandana', chance: '2', occurrence: '1% out of 100%' }
+{
+  trait: 'White Blue Bandana',
+  chance: '39',
+  occurrence: '11% out of 100%'
+}
+
+Trait type: Ear Accessories
+{ trait: 'Earing', chance: '20', occurrence: '13% out of 100%' }
+{
+  trait: 'Gold Hoop Earing',
+  chance: '1',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'None', chance: '100', occurrence: '68% out of 100%' }
+{
+  trait: 'Silver Hoop Earing',
+  chance: '25',
+  occurrence: '17% out of 100%'
+}
+
+Trait type: Hats
+{
+  trait: 'Backwards Cap Black',
+  chance: '40',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'Backwards Cap Blue Green',
+  chance: '40',
+  occurrence: '2% out of 100%'
+}
+{ trait: 'Backwards Red', chance: '40', occurrence: '2% out of 100%' }
+{ trait: 'Black Cap', chance: '50', occurrence: '2% out of 100%' }
+{ trait: 'Blue Cap', chance: '60', occurrence: '2% out of 100%' }
+{ trait: 'Chavito Hat', chance: '5', occurrence: '0% out of 100%' }
+{
+  trait: 'Flat Brim Black Cap',
+  chance: '10',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'Oldschool Hat Black',
+  chance: '50',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'Oldschool Hat Red',
+  chance: '20',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'Oldschool Hat White',
+  chance: '40',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'Oldschool Hat with Feather',
+  chance: '40',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'Red Cap', chance: '50', occurrence: '2% out of 100%' }
+{ trait: 'WTP Hat black', chance: '50', occurrence: '2% out of 100%' }
+{ trait: 'WTP Hat', chance: '50', occurrence: '2% out of 100%' }
