@@ -261,7 +261,7 @@ section {
 .mint-btn {
   display: flex;
   align-items: center;
-  gap: 3rem;
+  gap: 1rem;
   margin: auto;
 }
 
