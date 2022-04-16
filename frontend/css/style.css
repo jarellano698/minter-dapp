@@ -176,7 +176,7 @@ section {
 
 .countdown ul {
   display: flex;
-  gap: 2rem;
+  gap: 0rem;
 }
 .countdown .clock-item {
   list-style: none;
@@ -240,9 +240,10 @@ section {
 .info-container {
   display: flex;
   justify-content: space-between;
-  width: 100%;
-  text-align: center;
+  width: 60%;
+  text-align: left;
   margin-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .mint-qty {
@@ -281,8 +282,8 @@ section {
 
 .total-price-container {
   display: flex;
-  justify-content: space-between;
-  width: 100%;
+  justify-content: space-around;
+  width: 50%;
   padding: 1rem 0 2rem;
 }
 
