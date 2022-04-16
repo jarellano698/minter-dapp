@@ -3,13 +3,9 @@
 > node utils/rarity
 
 Trait type: Backgrounds
-{
-  trait: 'Abstract Aztec Design',
-  chance: '5',
-  occurrence: '0% out of 100%'
-}
-{
-  trait: 'Abstract Our Lady',
+   trait: 'Abstract Aztec Design',
+   occurrence: '0% out of 100%'
+trait: 'Abstract Our Lady',
   chance: '1',
   occurrence: '0% out of 100%'
 }
